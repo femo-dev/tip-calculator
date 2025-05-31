@@ -12,7 +12,7 @@ function App() {
     <>
       <header className="bg-teal-400 py-5">
         <h1 className="text-center text-4xl font-black">
-          Tip and Consumption Calculator
+          Tip and Bills Calculator
         </h1>
       </header>
 
